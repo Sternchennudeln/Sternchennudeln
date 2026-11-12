@@ -29,14 +29,14 @@ Hi, I'm <b>Sternchennudeln</b>.
     </td>
     <td align="left" valign="top" width="300">
       <b>🫧 Interests</b><br/>
-      <sub>Graphic Design</sub><br/>
-      <sub>Minecraft</sub>
+      <sub>Graphic Design</sub>
     </td>
-    
   </tr>
-  <td align="left" valign="top" width="300">
   <tr>
-
+    <td align="left" valign="top" width="300">
+    </td>
+    <td align="left" valign="top" width="300">
+    </td>
   </tr>
 </table>
 
