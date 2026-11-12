@@ -2,7 +2,7 @@
 
 <img src="assets/header.svg" alt="Welcome to my profile" width="620"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&pause=1500&color=E0559B&center=true&vCenter=true&width=480&height=30&lines=Developer+%26+Designer;Building+with+love+for+detail;Always+learning+%F0%9F%8C%B7" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&pause=1500&color=E0559B&center=true&vCenter=true&width=480&height=30&lines=Holt+mich+hier+raus;Leute+ich+bin+verzweifelt;All+in+Gods+Hands+%F0%9F%8C%B7" alt="Typing SVG" />
 
 <br/>
 
@@ -16,8 +16,7 @@
 <img src="assets/about.svg" alt="About me" width="520"/>
 
 <p align="center">
-Hi, I'm <b>*****</b>. I like building things that look good and feel good.<br/>
-Here's a little about me, my projects and what I'm working on right now.
+Hi, I'm <b>Sternchennudeln</b>.
 </p>
 
 </div>
@@ -26,22 +25,16 @@ Here's a little about me, my projects and what I'm working on right now.
   <tr>
     <td align="left" valign="top" width="300">
       <b>🌷 Currently</b><br/>
-      <sub>Working on <b>Project name</b></sub>
+      <sub>Learning </sub>
     </td>
     <td align="left" valign="top" width="300">
-      <b>🫧 Learning</b><br/>
-      <sub>TypeScript, Rust, Design Systems</sub>
+      <b>🫧 Interests</b><br/>
+      <sub>Graphic Design</sub><br/>
+      <sub>Minecraft</sub>
     </td>
   </tr>
   <tr>
-    <td align="left" valign="top" width="300">
-      <b>💐 Open to</b><br/>
-      <sub>Collaborating on open source</sub>
-    </td>
-    <td align="left" valign="top" width="300">
-      <b>🌟 Fun fact</b><br/>
-      <sub>Your fun fact goes here</sub>
-    </td>
+
   </tr>
 </table>
 
@@ -80,6 +73,6 @@ Here's a little about me, my projects and what I'm working on right now.
 
 <img src="assets/divider.svg" alt="" width="620"/>
 
-<sub>💞 &nbsp;Thanks for stopping by&nbsp; 💞</sub>
+<sub> &nbsp;Thanks for stopping by <3&nbsp; </sub>
 
 </div>
