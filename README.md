@@ -32,7 +32,9 @@ Hi, I'm <b>Sternchennudeln</b>.
       <sub>Graphic Design</sub><br/>
       <sub>Minecraft</sub>
     </td>
+    
   </tr>
+  <td align="left" valign="top" width="300">
   <tr>
 
   </tr>
