@@ -18,7 +18,7 @@
 
 <p align="center">
   <img src="assets/about.svg" alt="About me" width="300"/><br/>
-  Write a short description about yourself here.
+  Not much to see here, I'm currently learning.
 </p>
 
 <p align="center">
